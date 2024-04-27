@@ -1,0 +1,44 @@
+body {    
+    background-color: #4c5866;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-3 {
+}
+.col-6 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+.my_photo {
+    background: url(../image/My_photo.jpg) no-repeat center center;
+    background-repeat: 100%;
+    width: 600px;
+    height: 400px;
+}
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-repeat: 100%;
+    width: 400px;
+    height: 150px;
+}
