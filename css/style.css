@@ -42,3 +42,19 @@ body {
     width: 400px;
     height: 150px;
 }
+.button_js {
+    align-items: center
+}
+#myButton {
+border: none;
+border-radius: 20px;
+width: 100px;
+height: 100px;
+background-color: chartreuse;
+color: black;
+font-weight: bold;
+}
+#demo img {
+    margin-top: 25px;
+    width: 30%;
+}
